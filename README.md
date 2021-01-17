@@ -17,5 +17,6 @@ Pueden crearse tantos commit como se deseen.
 
 ## Comandos para subir un repositorio hacia GitHub:
 + **Crear el repositorio en blanco desde Github**
-+ **git remote add origin https://github.com/juangomez9619/git-tutorial.git** Enlaza al repositorio local con el creado en github.
-+ ****
++ **git remote add origin https://github.com/juangomez9619/git-tutorial.git** Enlaza al repositorio local con el creado en github. (Se coloca una sola vez)
++ **git branch -M main** Situa en la rama maestra.
++ **git push** Sube los archivos del repositorio local al repositorio en github. 
