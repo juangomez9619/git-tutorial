@@ -2,4 +2,4 @@
 
 ## Comandos de repositorio local hacia GitHub:
 
-__jajaja__
+Los comandos **deben** ser ingresados en el siguiente orden:
