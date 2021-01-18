@@ -19,4 +19,8 @@ Pueden crearse tantos commit como se deseen.
 + **Crear el repositorio en blanco desde Github**
 + **git remote add origin https://github.com/juangomez9619/git-tutorial.git** Enlaza al repositorio local con el creado en github. (Se coloca una sola vez)
 + **git branch -M main** Situa en la rama maestra.
-+ **git push** Sube los archivos del repositorio local al repositorio en github. 
++ **git push** Sube los archivos del repositorio local al repositorio en github.
+
++ **git tag nombre_tag -m "comentario"** crea un tag para establecer una versión del proyecto.
++ **git push --tags** Sube la versión al repositorio en GitHub.
+
