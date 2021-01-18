@@ -11,7 +11,7 @@ U o ??: Archivo sin seguimiento (NO registrado)
 + **git commit -m "comentario"** crea un commit de lo que esté en el _staring area_ ("Pantallazo del código") 
 Se recomienda no añadir tildes ni caracteres propios del español en el comentario de un commit.
 Pueden crearse tantos commit como se deseen.
-+ **ggit log --oneline** Lista de los commit existentes, su comentario y su estado.
++ **git log --oneline** Lista de los commit existentes, su comentario y su estado.
 + **git reset --mixed id_commit** Sitúa el código en ese commit(puede ser a una versión anterior o una más reciente).
 + **git reset --hard id_commit** Sitúa el código en ese commit eliminando cambios futuros.
 
